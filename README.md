@@ -10,7 +10,7 @@ I work through [Parallel31](https://www.parallel31.io/en/), my one-person studio
 - **[CharterGo](https://chartergo.app)** · booking and operations app for boat charter companies. A charter company in
   Ibiza has run its season on it since September 2026: 18 boats, 15 skippers, bookings, crew assignments and contracts
   signed on board.
-- **Santafixie: Magento 2 → Shopify** · migration of a bike shop that sells in 8 countries: 8 stores, 7 languages,
+- **[Santafixie](https://www.santafixie.com): Magento 2 → Shopify** · migration of a bike shop that sells in 8 countries: 8 stores, 7 languages,
   11,000+ products, 301 redirects, orders and stock synced with Odoo. Live since October 2026.
 
 #### Open source
