@@ -27,4 +27,4 @@ I work through [Parallel31](https://www.parallel31.io/en/), my one-person studio
 I build with Claude Code and put the guardrails around it: scripts that only simulate until you pass `--apply`, a
 read-only check next to every script that writes, and hooks that block the commands that already broke something once.
 
-📫 hello@parallel31.io · [LinkedIn](https://www.linkedin.com/in/txampa)
+📫 txampaback@gmail.com · [LinkedIn](https://www.linkedin.com/in/txampa)
