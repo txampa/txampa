@@ -17,8 +17,8 @@ I work through [Parallel31](https://www.parallel31.io/en/), my one-person studio
 
 | Repo | What it does |
 |---|---|
-| [claude-skill-odoo-integration](https://github.com/txampa/claude-skill-odoo-integration) | Claude Code skill for Odoo XML-RPC integrations, v8 to v17 |
-| [claude-skill-b2b-local-outreach](https://github.com/txampa/claude-skill-b2b-local-outreach) | Lead pipeline for local businesses: email discovery, multilingual sequences, GDPR and CAN-SPAM rules |
+| [claude-skill-odoo-integration](https://github.com/txampa/claude-skill-odoo-integration) | Claude Code skill for Odoo integrations: XML-RPC (Odoo 8–19) and the new JSON-2 API |
+| [claude-skill-b2b-local-outreach](https://github.com/txampa/claude-skill-b2b-local-outreach) | Lead pipeline for local businesses: email discovery, multilingual sequences, and a legal check per country before any cold email |
 | [claude-code-security-kit](https://github.com/txampa/claude-code-security-kit) | Permissions and hooks that stop an AI agent from leaking API keys, reading SSH keys or piping curl into bash |
 | [claude-skill-session-handoff](https://github.com/txampa/claude-skill-session-handoff) | Say "wrap up" before `/clear` and get a structured handoff: decisions, running state, the exact next command |
 
